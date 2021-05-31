@@ -1,3 +1,9 @@
+BTL-LTNC-Nhóm LHA- PingPong
+
+Họ và tên: Lý Hoàng Anh
+MSSV: 19021210
+Lớp INT2215 25;
+
 Game Pong
  Mô tả : game sẽ gồm 2 cây vợt giao bóng qua lại với nhau , ai đạt 6 điểm trước sẽ win.
 Các chức năng chính bao gồm :
